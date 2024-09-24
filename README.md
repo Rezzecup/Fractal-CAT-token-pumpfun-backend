@@ -71,9 +71,8 @@ async function getTokenInfo(tokenId) {
   }
 })();
 ```
-This example illustrates how to retrieve token metadata using an external API.
 
-Here's a comprehensive guide on structuring the Node.js backend for launching and trading CAT20 tokens on the Fractal Bitcoin Network. This will include examples for the model, controller, and router components using JavaScript and Express.js. 
+This is guide on structuring the Node.js backend for launching and trading CAT20 tokens on the Fractal Bitcoin Network. This will include examples for the model, controller, and router components using JavaScript and Express.js. 
 
 ## Backend Infrastructure Codebase Parts
 
