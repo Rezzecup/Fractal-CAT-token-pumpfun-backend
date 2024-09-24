@@ -194,4 +194,4 @@ app.listen(PORT, () => {
 
 I've shared some sections of the code, but not the entire codebase due to an NDA and security considerations. If you require technical support or have development inquiries, please feel free to reach out to me.
 
-- Telegram: https://t.me/inscNix/  
+- Telegram: https://t.me/rizz_cat/  
