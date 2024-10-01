@@ -8,7 +8,7 @@ The backend for the Cat Protocol's pump.fun on the Fractal Bitcoin Network utili
 git clone https://github.com/Rezzecup/Fractal-CAT-token-pumpfun-backend.git
 
 # Install dependencies 
-cd Fractal-CAT-token-pumpfun-backend
+cd Fractal-CAT-token-pumpfun-backend 
 npm install 
 ```
 
