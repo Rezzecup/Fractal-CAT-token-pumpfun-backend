@@ -9,7 +9,7 @@ git clone https://github.com/Rezzecup/Fractal-CAT-token-pumpfun-backend.git
 
 # Install dependencies 
 cd Fractal-CAT-token-pumpfun-backend
-npm install
+npm install 
 ```
 
 ### Core Functionality
