@@ -4,7 +4,7 @@ The backend for the Cat Protocol's pump.fun on the Fractal Bitcoin Network utili
 **Installation:**
 
 ```bash
-# Clone the repository
+# Clone the repository 
 git clone https://github.com/Rezzecup/Fractal-CAT-token-pumpfun-backend.git
 
 # Install dependencies 
