@@ -12,7 +12,7 @@ cd Fractal-CAT-token-pumpfun-backend
 npm install 
 ```
 
-### Core Functionality
+### Core Functionality 
 
 **Token Minting API Fetching:**
 ```javascript
